@@ -12,5 +12,6 @@ public class UnitTest1
     public void Test2()
     {
         Assert.False(!true);
+        Assert.Empty("");
     }
 }
