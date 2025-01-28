@@ -13,5 +13,7 @@ public class UnitTest1
     {
         Assert.False(!true);
         Assert.Empty("");
+        //  This was stupid
+        Assert.True(!false);
     }
 }
